@@ -27,7 +27,7 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
    should now have this file, `readme.md` on your local computer. Open the file in your editor,
    and write below the URL to your fork of the GitHub repository, and the add and commit:
 
-   My Production Problems repository URL: https://github.com/vrajkovi/itmd-362-pp.git
+   My Production Problems repository URL:"https://github.com/vrajkovi/itmd-362-pp.git"
 
 4. Next, push your commit to GitHub. `git push origin master` from your command line.
 
