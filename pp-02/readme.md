@@ -65,6 +65,9 @@ screenshot, then copy it to this directory (`pp-02`) and add and commit it to th
 Then, also list here the keyboard commands to switch between your different virtual desktops (on
 some operating systems, you might be able to customize the shortcuts to your own liking):
 
+to switch between desktops on my Mac I can press control+1 or control+2 or use 4 finger swipe 
+gestures on the track pad.
+
 
 4. Set up a distraction-free browser.
 
